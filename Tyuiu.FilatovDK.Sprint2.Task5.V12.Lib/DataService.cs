@@ -29,7 +29,7 @@ namespace Tyuiu.FilatovDK.Sprint2.Task5.V12.Lib
                                     n = 31;
                                     break;
                                 case 2:
-                                    n = 29;
+                                    n =  29;
                                     break;
                                 default:
                                     n = 30;
