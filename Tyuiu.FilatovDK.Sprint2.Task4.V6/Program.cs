@@ -20,7 +20,7 @@ namespace Tyuiu.FilatovDK.Sprint2.Task4.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу на, которая вычисляет выражения с помощью тернарного *");
-            Console.WriteLine("* оператора                                                                        *");
+            Console.WriteLine("* оператора                                                               *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");

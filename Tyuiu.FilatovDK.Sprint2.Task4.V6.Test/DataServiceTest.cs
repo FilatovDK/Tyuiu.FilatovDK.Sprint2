@@ -9,7 +9,7 @@ namespace Tyuiu.FilatovDK.Sprint2.Task4.V6.Test
         {
             DataService ds = new DataService();
             double res = ds.Calculate(1, 1);
-            Assert.AreEqual(0.667, res, 0.001);
+            Assert.AreEqual(0.667, res,  0.001);
         }
     }
 }
