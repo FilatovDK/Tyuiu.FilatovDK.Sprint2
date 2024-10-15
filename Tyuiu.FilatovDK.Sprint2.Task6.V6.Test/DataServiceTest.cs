@@ -12,7 +12,7 @@ namespace Tyuiu.FilatovDK.Sprint2.Task6.V6.Test
             int m = 4;
             int k = 10;
             string res = ds.FindCardNameAndValue(m, k);
-            string wait = "Десятка черви";
+            string wait = "десятка черви";
             Assert.AreEqual(wait, res);
         }
     }
