@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.FilatovDK.Sprint2.Task6.V12.Lib\Tyuiu.FilatovDK.Sprint2.Task6.V12.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.FilatovDK.Sprint2.Task5.V12.Lib\Tyuiu.FilatovDK.Sprint2.Task5.V12.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
